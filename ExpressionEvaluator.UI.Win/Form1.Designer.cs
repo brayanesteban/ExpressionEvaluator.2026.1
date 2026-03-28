@@ -262,6 +262,7 @@
             // 
             // button17
             // 
+            button17.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             button17.BackColor = Color.FromArgb(255, 128, 0);
             button17.Font = new Font("Segoe UI", 18F);
             button17.ForeColor = Color.Black;
@@ -275,6 +276,7 @@
             // 
             // button18
             // 
+            button18.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             button18.BackColor = Color.FromArgb(255, 128, 0);
             button18.Font = new Font("Segoe UI", 18F);
             button18.ForeColor = Color.Black;
@@ -301,6 +303,7 @@
             // 
             // button20
             // 
+            button20.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             button20.BackColor = Color.FromArgb(255, 128, 0);
             button20.Font = new Font("Segoe UI", 18F);
             button20.ForeColor = Color.Black;
@@ -314,6 +317,7 @@
             // 
             // button21
             // 
+            button21.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             button21.BackColor = Color.FromArgb(255, 128, 0);
             button21.Font = new Font("Segoe UI", 18F);
             button21.ForeColor = Color.Black;
